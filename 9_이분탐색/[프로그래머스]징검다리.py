@@ -8,7 +8,7 @@ def solution(distance, rocks, n):
     while left <= right:
         mid = (left+right)//2
         current = 0 #현재 위치값
-        min_distance = 0 #가장 작은 거리
+        min_distance = float('inf') #가장 작은 거리
         remove = 0 #제거할 바위 갯수
         
         for x in rocks:
