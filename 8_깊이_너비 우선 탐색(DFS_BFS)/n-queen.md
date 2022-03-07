@@ -1,4 +1,4 @@
-# [백준] dfs/bfs - 양
+# [백준] dfs/bfs - n-queen
 https://www.acmicpc.net/problem/3184
 
 ## 문제 접근 
